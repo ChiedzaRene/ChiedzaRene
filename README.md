@@ -1,4 +1,4 @@
-#  Hey, I'm Chiedza Rene
+#  Hey, I'm Chiedza Rene!
 
 **Data Analyst · ML enthusiast  · Junior Developer**  
 GDG Campus Lead · Millennium Fellow ·
